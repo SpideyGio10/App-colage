@@ -1,0 +1,44 @@
+body{
+    background-color: pink;
+}
+h1{
+    font-family: cursive;
+    font-style:unset;
+}
+h4{
+    color:green;
+    font-style: oblique;
+}
+.copy_rigth_footer{
+    color: white;
+    background-color: greenyellow;
+}
+#camera{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    border: 23px,solid,black;
+}
+#Camara1{
+    width: 250;
+    height: 150;
+    float:left;
+}
+#camara2{
+    width: 250;
+    height: 150;
+    float:right;
+}
+#camara3{
+    width: 250;
+    height: 150;
+}
+img:hover{
+    border-radius: 35px;
+    box-shadow: 5px 5px 5px black;
+}
+#camera{
+    height: 250;
+    width: 250;
+    border: 5px solid black;
+}
